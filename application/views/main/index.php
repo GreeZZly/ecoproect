@@ -98,7 +98,7 @@
 				<div class="module-surround">
 	           	   	<div class="module-content">
 						<div>
-						<img src="/include/images/ecoproj/rs_001.jpg">
+						<img src="/include/images/21.jpg" style="width:440px;">
 						</div>
                 	</div>
                 </div>
