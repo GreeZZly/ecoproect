@@ -619,7 +619,7 @@
       <div class="modal-content">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 		  <h3 id="myModalLabel">Получить доступ к каталогу</h3>
-			<form id="inputform" action="mail.php" method="post">
+			<form id="inputform" action="/index.php/main/callback" method="post">
 			<input name="fio" type="text" class="form-control" placeholder="Имя" required="required">
 			<input name="phone" type="text" class="form-control" placeholder="Телефон" required="required">
 			<textarea name="txt" class="inpmess form-control" rows="3" placeholder="Сообщение"></textarea>

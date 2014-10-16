@@ -34,6 +34,8 @@ class Main extends CI_Controller {
 	public function zbs(){
 		
 		$this->load->view('main/index.php');
+		$this->load->view('main/zbs.php');
+
 	}
 
 	public function callback(){
@@ -52,4 +54,5 @@ class Main extends CI_Controller {
 	    $this->email->send();
 	    redirect('/main/zbs', 'refresh');
 	}
+
 }

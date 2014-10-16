@@ -122,7 +122,23 @@ $('#sliderform .send').on('click', function(e){
   // e.preventDefault();
   // alert('MEIN HERZ');
   
-
 });
 
+var winw = $(window).width();
+var winh = $(window).height();
+var left = winw/2 - 175;
+var top = winh/2 - 100;
+$("#zbs_msg").css({'top':top,'left':left});
+
+$(window).resize(function(){
+  var winw = $(window).width();
+  var winh = $(window).height();
+  var left = winw/2 - 175;
+  var top = winh/2 - 100;
+  $("#zbs_msg").css({'top':top,'left':left});
+});
+
+$("#zbs_msg button").on('click', function(){
+  $("#zbs_wrap, #zbs_msg").fadeOut();
+});
 });
