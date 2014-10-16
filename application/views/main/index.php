@@ -514,7 +514,7 @@
 		  <tr>
 			<td class="tdr">
 			 <p class="cs01"><strong>Анжелика Самойлова, компания "Промрегион"</strong><br/>г. Москва</p>
-         <p class="cs02">С 2010 года я работаю с компанией Экопроект. За все эти годы, у меня даже мысли не было работать с кем то еще.<br/>За 4 года, Экопроект зарекомендовали себя, как надежные партнеры., что для нас очень важно.
+         <p class="cs02">С 2013 года я работаю с компанией Экопроект. За все это время, у меня даже мысли не было работать с кем то еще.<br/>Экопроект зарекомендовали себя, как надежные партнеры., что для нас очень важно.
 		 </p>
 		 <p class="cs03"></p>  		
 			</td>
@@ -532,15 +532,15 @@
 </div>
 <div id="rt-yandmaps">
 		<div class="cs01">
-<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=g6qElnRCyg2bs36UaME_7-6v35o3dS9o&width=600&height=450"></script>
+<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=eG-mbhMBbZpTxJFWv5KoO8l1JcEJC7P9&width=600&height=450"></script>
 	</div>	
 	<div class="rt-container">
 		<div class="rt-grid-12 rt-alpha rt-omega">
 			<div class="module-content">
 	<div class="cs00">
 		<div><strong>Контакты</strong></div>
-		<p class="csadr">Новочебоксарск,<br/>
-ул. 10-пятилетки,<br/>д. 1</p>
+		<p class="csadr">Чебоксары,<br/>
+ул. Калинина,<br/>д. 111/1</p>
 		<p class="csadr" style="background: rgba(0, 0, 0, 0); font-weight: bold;">(8352) 21-59-44</p>
 		<p></p>
 		<p></p>
