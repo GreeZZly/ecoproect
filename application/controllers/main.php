@@ -24,7 +24,7 @@ class Main extends CI_Controller {
 		$this->email->initialize($config);
 
 		$this->email->clear();
-	    $this->email->to('semenzuev777@gmail.com');
+	    $this->email->to('termostroi21@mail.ru, semenzuev777@gmail.com');
 	    $this->email->from('ecoproect.ru');
 	    $this->email->subject('Новая заявка!');
 	    $this->email->message("Привет!\nПоступила заявка от\nИмя: ".$name."\nТелефон: ".$phone.".");
@@ -47,7 +47,7 @@ class Main extends CI_Controller {
 		$this->email->initialize($config);
 
 		$this->email->clear();
-	    $this->email->to('semenzuev777@gmail.com');
+	    $this->email->to('termostroi21@mail.ru, semenzuev777@gmail.com');
 	    $this->email->from('ecoproect.ru');
 	    $this->email->subject('Обратный звонок!');
 	    $this->email->message("Привет!\nПерезвоните человеку\nИмя: ".$name."\nТелефон: ".$phone."\nСообщение: ".$txt.".");
