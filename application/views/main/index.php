@@ -411,6 +411,7 @@
 				  <div class="slide"><img src="/include/images/ecoproj/rs_035.jpg" width ="300" height="225"></div>
 				  <div class="slide"><img src="/include/images/ecoproj/rs_036.jpg" width ="300" height="225"></div>
 				  <div class="slide"><img src="/include/images/ecoproj/rs_037.jpg" width ="300" height="225"></div>
+				  <div class="slide"><img src="/include/images/ecoproj/rs_038.jpg" width ="300" height="225"></div>
 				</div>
 			</div>
 		</div>
